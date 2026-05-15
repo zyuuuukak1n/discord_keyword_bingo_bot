@@ -1,0 +1,23 @@
+# Secrets / Environment variables
+.env
+
+# Python caching and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local testing and generated files
+test_card.png
+fonts/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Testing
+.pytest_cache/
